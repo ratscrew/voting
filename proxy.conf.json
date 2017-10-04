@@ -1,0 +1,6 @@
+{
+    "/poll/*": {
+        "target": "https://polldaddy.com/",
+        "secure": false
+    }
+}
